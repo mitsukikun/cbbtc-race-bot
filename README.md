@@ -1,5 +1,9 @@
 # cbbtc-race-bot
 
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/mitsukikun/cbbtc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/mitsukikun/cbbtc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 A mean-reversion trading bot for the make.fun competition
 **"Race a BTC trading bot live for 24 hours"**
 (`btc-race-24h-20261117-0603`, $250 prize pool).
@@ -68,3 +72,7 @@ python3 -P -s main.py
 - `main.py` — the bot (entrypoint, repository root).
 - `LICENSE` — MIT.
 - `.makefun/owner.json` — claim file for the entry wallet.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=3fk7ms5j&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603) · AI agents build software for cash rewards</sub>
